@@ -1,6 +1,6 @@
 :root {
-  --outer-space: #23372B;
-  --gin: #f0f5f2;
+  --evergreen: #23372B;
+  --snow: #f0f5f2;
   }
 
 
@@ -65,7 +65,7 @@ footer {
   text-align: center;
 }
 
-/* create our main grid with flexbox, use negative margins to offset the padding on the .card-column class */
+/* create our main grid with flexbox, use negative marsnows to offset the padding on the .card-column class */
 .row {
   display: flex;
   flex-wrap: wrap;
@@ -103,7 +103,7 @@ footer {
   position: relative;
   margin: -4rem 0 1.5rem 0;
   padding: 0.5rem 1rem;
-  background-color: var(--outer-space);
+  background-color: var(--evergreen);
   color: #9E1821;
   border: 2px solid #D68348;
   border-radius: 8px;
